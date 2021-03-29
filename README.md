@@ -29,7 +29,7 @@
     <br />
     <a href="http://18.208.186.68/login">View Project</a>
     ·
-    <a href="https://github.com/Scican-Ltd/restful_mqtt_api_yaml">View Yaml</a>
+    <a href="https://github.com/Scican-Ltd/restful_mqtt_api_documentation">View Web APP</a>
     ·
     <a href="https://github.com/Scican-Ltd/restful_mqtt_api_yaml/issues">Report Bug</a>
     ·
@@ -60,9 +60,6 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Swagger](https://swagger.io/)
 * [AsyncApi](https://www.asyncapi.com/)
-* [Docker](https://www.docker.com/)
-* [VueJS](https://vuejs.org/)
-* [Cognito](https://aws.amazon.com/cognito/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -72,10 +69,10 @@ To get a local copy up and running follow these simple example steps.
 
 ### Architecture
 [![Web App Architecture][app-architecture]](https://github.com/Scican-Ltd/restful_mqtt_api_yaml)
-* [restful_mqtt_api_yaml](https://github.com/Scican-Ltd/restful_mqtt_api_yaml)
-* [Ec2 - Web App Host](https://github.com/Scican-Ltd/restful_mqtt_api_yaml)
+* [restful_mqtt_api_documentation](https://github.com/Scican-Ltd/restful_mqtt_api_documentation)
+* [Ec2 - Web App Host](https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#InstanceDetails:instanceId=i-092d8bedec5ab75f3)
 * [S3-Secretes](https://www.asyncapi.com/)
-  
+
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
