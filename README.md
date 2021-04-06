@@ -71,7 +71,7 @@ To get a local copy up and running follow these simple example steps.
 [![Web App Architecture][app-architecture]](https://github.com/Scican-Ltd/restful_mqtt_api_yaml)
 * [restful_mqtt_api_documentation](https://github.com/Scican-Ltd/restful_mqtt_api_documentation)
 * [Ec2 - Web App Host](https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#InstanceDetails:instanceId=i-092d8bedec5ab75f3)
-* [S3-Secretes](https://www.asyncapi.com/)
+* [S3 - authentication-keys-ec2-legacy](https://s3.console.aws.amazon.com/s3/buckets/authentication-keys-ec2-legacy?region=us-east-1&tab=objects)
 
 ### Prerequisites
 
