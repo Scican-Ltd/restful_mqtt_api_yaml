@@ -16,7 +16,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="docs/img/Coltene_logo.png" alt="Logo">
+    <img src="https://www.coltene.com/fileadmin/deepscreen_core/Public/images/logo.svg" alt="Logo">
   </a>
 
   <h3 align="center">Restful API / MQTT - Documentation | YAML Repo</h3>
@@ -44,14 +44,14 @@
 
 [![Product Name Screen Shot][product-screenshot]](http://18.208.186.68/login)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et convallis eros. Cras ut nunc tempor, placerat neque vitae, vestibulum nunc. -- I think this is it.
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
+* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac dictum leo. Fusce tempus est non eros posuere, in vehicula felis finibus.
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
 * You should element DRY principles to the rest of your life :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et convallis eros. Cras ut nunc tempor, placerat neque vitae, vestibulum nunc. -- I think this is it!
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
@@ -64,8 +64,7 @@ This section should list any major frameworks that you built your project using.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This portion of the project is related to the `restful_mqtt_api_yaml` repository in the following diagram. The developer will clone this project, add a new HTTPS or MQTT documentation locally or edit a exist one and push to the `ORIGIN`. A Github Action will make this change available in the EC2 server.
 
 ### Architecture
 [![Web App Architecture][app-architecture]](https://github.com/Scican-Ltd/restful_mqtt_api_yaml)
@@ -76,10 +75,8 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* Visual Code + [Swagger Viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer) installed.
+* [AsyncAPI ???](https://playground.asyncapi.io/?load=https://raw.githubusercontent.com/asyncapi/asyncapi/master/examples/2.0.0/simple.yml) We can use the AsyncAPI PLAYGROUND in order to edit the yaml file and then copy+paste to this repository and then push to `ORIGIN`. But this is not the requirement.
 
 ### Installation
 
